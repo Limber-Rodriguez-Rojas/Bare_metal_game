@@ -31,4 +31,4 @@ LEVEL 01 | LEVEL 2
 
 ### Controls
 
-<img src="Images/keyboard_img.png">
+<img src="Images/bare_metal_keyboard.png">
