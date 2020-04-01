@@ -27,7 +27,7 @@ Now lets see how they look on QEMU:
 
 LEVEL 01 | LEVEL 2 
 ------------ | ------------- 
-<img src="Images/level04.png" width = "260"> | <img src="Images/level29.png" width = "260"> 
+<img src="Images/game1_2.png" width = "360"> | <img src="Images/game2_2.png" width = "360"> 
 
 ### Controls
 
